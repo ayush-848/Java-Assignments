@@ -2,8 +2,8 @@ import java.util.*;
 
 public class file {
     public static void main(String[] args) {
-        String inputFileName = "abc.txt";
-        String outputFileName = "output.txt";
+        String inputFileName = "Text Files/abc.txt";
+        String outputFileName = "Text Files/output.txt";
         int sum = 0;
         double average = 0.0;
         List<Integer> list = FileProcessing.readFile(inputFileName);

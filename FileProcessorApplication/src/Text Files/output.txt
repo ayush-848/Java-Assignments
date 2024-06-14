@@ -1,0 +1,2 @@
+The sum of the numbers is = 318
+The average is = 45.42857142857143
